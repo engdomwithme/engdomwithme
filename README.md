@@ -1,16 +1,18 @@
-## Hi there 👋
+# English Language Kingdom with Me(rt)
 
-<!--
-**engdomwithme/engdomwithme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**English Language Kingdom with Me(rt)** projesine hoş geldiniz! Bu depo, İngilizce dil öğretimi için hikayeler tasarlamaya ve geliştirmeye yönelik bir projedir.
 
-Here are some ideas to get you started:
+## Proje Genel Bakış
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Bu proje, öğrencilere, dinledikten sonra bilgilerini test etmek için değerlendirmelerle birlikte ilgi çekici İngilizce dil hikayeleri sunmayı hedeflemektedir. İçerik, eğlenceli ve etkileşimli bir deneyim yaratarak dil öğrenimini geliştirmeyi amaçlamaktadır. Ancak, videoların etkileşimli olmadığını unutmamalısınız; yine de değerlendirmeler, kelime bilgisi anlayışını ölçmek için yer alacaktır.
+
+## Özellikler
+
+- **İngilizce Dil Öğrenme Hikayeleri**: Kelime bilgisi öğretmeye yönelik iyi tasarlanmış hikayeler.
+- **Değerlendirmeler**: Her hikayeden sonra bilgilerinizi test etmek için sınavlar.
+- **Etkileşimsiz Videolar**: Videolar etkileşimli olmasa da, değerlendirmeler öğrenme çıktısını garanti eder.
+
+## İletişim
+
+Herhangi bir soru veya öneri için, e-posta yoluyla bizimle iletişime geçebilirsiniz:  
+**engdomwithme@gmail.com**
